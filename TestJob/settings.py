@@ -25,7 +25,7 @@ SECRET_KEY = '1bfo882a_)rgbk@(^4aar+m384rj0#cn2oosaj)^q2lym+l=!c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lolkekcheburek.gq', '127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','mytestjob1.herokuapp.com ']
 
 SOCIAL_AUTH_VK_OAUTH2_KEY = '7210677'
 SOCIAL_AUTH_VK_OAUTH2_SECRET = 'Cw4VEe4IhNeNvAVi7Mn7'
